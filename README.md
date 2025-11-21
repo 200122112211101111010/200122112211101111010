@@ -1,14 +1,9 @@
 <h1>Hiii i'm 200122112211101111010 ♪(^∇^*)</h1>
 <p>I love Javascript i want to marry Javascript</p>
-
 <h2>My talents include:</h2>
 <ul>
   <li>Javascript</li>
 </ul>
+<br>
+<p>I also like rhythm games</p>
 
-<h2>My hobbies include:</h2>
-<ul>
-  <li>Javascript</li>
-</ul>
-
-<p>That's all</p>
